@@ -20,3 +20,4 @@ RSpec.describe Room, type: :model do
     end
   end
 end
+end
